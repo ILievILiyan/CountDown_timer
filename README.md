@@ -1,1 +1,1 @@
-# CountDown_timer
+# This is a simple countdown timer for seconds.
